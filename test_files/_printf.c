@@ -7,7 +7,6 @@ int _printf(const char *format, ...){
   
   va_list data;
   va_start(data, format);
-
   /* _printf("%s", 'Hello') */
   
   for (i = 0; format[i] != '\0'; ){
