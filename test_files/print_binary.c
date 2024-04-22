@@ -10,7 +10,6 @@ int print_binary(int number){
     }
     arr[i] = number;
     
-    
     for(i; i >= 0; i--){
         count += _putchar(arr[i] + '0');
     }
