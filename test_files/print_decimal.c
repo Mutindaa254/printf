@@ -8,7 +8,6 @@ int print_decimal(int value){
         count += _putchar('-');
         value = value * -1;
     }
-  
     /* First remove the last digit of number and print 
     the remaining digits using recursion, then print
     the last digit
