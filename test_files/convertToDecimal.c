@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * convertToDecimal - Convert base 8 and 16 to base 10
  *
